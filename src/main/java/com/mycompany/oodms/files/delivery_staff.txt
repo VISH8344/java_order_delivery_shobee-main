@@ -1,0 +1,2 @@
+1;Kit yeng;staff@gmail.com;11111111;18;FEMALE;0122222111;src/main/java/com/mycompany/oodms/ui/pictures/hudao.jpg
+2;Cindy;c@c;11111111;23;FEMALE;0123213223;src/main/java/com/mycompany/oodms/ui/pictures/defaultPP.png

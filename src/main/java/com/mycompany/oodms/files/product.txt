@@ -1,0 +1,8 @@
+1;Kokokrunch;100.0;10;src/main/java/com/mycompany/oodms/productImage/1koko-crunch_1.png;2;Kokokruch must match with milk, but we dont sell milk here
+2;Tiger;100.0;93;src/main/java/com/mycompany/oodms/productImage/2tiger5d39c080aa137cbf251bfa391fe4.jpg;2;Tiger is an animal, it is also a biscuit
+3;Oreo;2.0;11109;src/main/java/com/mycompany/oodms/productImage/3OREO-VANILLA-MP-256-5g.jpg;2;O is the black biscuit and re is the white sweet cream
+4;Milo;6.0;15;src/main/java/com/mycompany/oodms/productImage/4milopacketd5e8764849b2a13a501322b8f2180860.jpg;3;Milo is for malaysian. Every malaysian loves milo
+5;iMac M1;12.99;22;src/main/java/com/mycompany/oodms/productImage/5imac 2023-03-03 214133.jpg;1;iMac cant play games, if you want games, dont buy this device
+6;IPhone 15;12.0;23;src/main/java/com/mycompany/oodms/productImage/6iphone 142023-03-03 213901.jpg;1;this is the brand new iphone 15. It is not even selling in Apple
+7;vodka;12.0;12;src/main/java/com/mycompany/oodms/productImage/7vodkaBlue-800x800-72cec7492a4e4f108a4e6e5665951ca1.jpg;3;Vodka is not for kid. But your father will love you if you buy it for him
+8;Milo shirt;12.0;12;src/main/java/com/mycompany/oodms/productImage/8miloshirte1f00b001ac8.jpg;4;If you are a fan of milo, buy it! dont hesitate 

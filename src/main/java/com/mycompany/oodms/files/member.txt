@@ -1,0 +1,4 @@
+1;Bung Shang;member123@gmail.com;asAS12@#;20;MALE;0127729912;src/main/java/com/mycompany/oodms/ui/pictures/hudao.jpg
+2;Brenden Tan;brenden@gmail.com;11111111;21;MALE;0122222222;src/main/java/com/mycompany/oodms/ui/pictures/hudao.jpg
+3;bright;2@2.com;11111111;21;MALE;123123222;src/main/java/com/mycompany/oodms/ui/pictures/hudao.jpg
+4;asd;sd@sd;11111111;12;MALE;12;src/main/java/com/mycompany/oodms/ui/pictures/hudao.jpg

@@ -1,0 +1,4 @@
+1;Electronic
+2;Food
+3;Drinks
+4;Man Cloths

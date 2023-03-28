@@ -1,0 +1,4 @@
+1;3, Jalan Emas 123, Taman Sri Skudai;Skudai;Johor;81300;1
+2;20-18-11 Bunga Condominium, Jalan Bunga; Taman Bunga;Kuala Lumpur;56300;2
+3;jalan midah 8;Taman Midah;Kuala Lumpuh;56000;3
+4;s;wew;sda;22;4
